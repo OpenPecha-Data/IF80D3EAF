@@ -1,0 +1,71 @@
+id: IF80D3EAF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:16:44.647234'
+last_modified: '2022-06-17T11:16:44.647239'
+parser: null
+source_metadata:
+  title: Bodhicaryāvatāra Series
+  language: fr
+  description: 'Lotsawa House presents the following texts as part of its Bodhicaryāvatāra
+    Series:'
+  volume:
+    fCF04:
+      title: 'Bodhicaryāvatāra—Chapter 1: The Benefits of Bodhicitta'
+      base_file: fCF04.txt
+      order: 1
+      parent: Bodhicaryāvatāra Root text
+    fB295:
+      title: 'Bodhicaryāvatāra—Chapter 2: Confession of Negativity'
+      base_file: fB295.txt
+      order: 2
+      parent: Bodhicaryāvatāra Root text
+    fFD01:
+      title: 'Bodhicaryāvatāra—Chapter 3: Fully Adopting Bodhicitta'
+      base_file: fFD01.txt
+      order: 3
+      parent: Bodhicaryāvatāra Root text
+    f2FD2:
+      title: 'Bodhicaryāvatāra: Teachings and Overview'
+      base_file: f2FD2.txt
+      order: 4
+      parent: Commentaries
+    fC4BB:
+      title: Overview of the Bodhicaryāvatāra
+      base_file: fC4BB.txt
+      order: 5
+      parent: Commentaries
+    fB789:
+      title: 'The Brightly Shining Sun: A Step-by-Step Guide to Meditating on the
+        Bodhicaryāvatāra'
+      base_file: fB789.txt
+      order: 6
+      parent: Commentaries
+    fCC84:
+      title: 'The Garland of Jewel Ornaments: The Stages of Meditating on the Bodhicaryāvatāra'
+      base_file: fCC84.txt
+      order: 7
+      parent: Commentaries
+    f0E41:
+      title: Bodhicaryāvatāra Lineage Prayer
+      base_file: f0E41.txt
+      order: 8
+      parent: Lineage Prayers
+    f6863:
+      title: Prayer to the Lineage of the Bodhicaryāvatāra
+      base_file: f6863.txt
+      order: 9
+      parent: Lineage Prayers
+    f151C:
+      title: 'Vines of Amṛta: A Prayer to the Lineage of the Bodhicaryāvatāra'
+      base_file: f151C.txt
+      order: 10
+      parent: Lineage Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
